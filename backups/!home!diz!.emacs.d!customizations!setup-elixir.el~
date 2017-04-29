@@ -1,0 +1,5 @@
+;;
+;; Load alchemist automatically with elixir mode
+;;
+
+(add-hook 'elixir-mode-hook 'alchemist-mode)

@@ -1,0 +1,85 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/diz/repos/svett/" . "lib/")
+ ("/home/diz/repos/svett/svett/" . "lib/")
+ ("/home/diz/repos/erlang-app/" . "src/")
+ ("/home/" . "diz/")
+ ("/home/diz/repos/clojure-noob/src/" . "clojure_noob/")
+ ("/home/diz/repos/clojure-noob/" . "src/")
+ ("/home/diz/repos/" . "svett/")
+ ("/home/diz/.emacs.d/" . "customizations/")
+ ("/home/diz/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/diz/.emacs.d/customizations/"
+ "/home/diz/.emacs.d/"
+ "/home/diz/repos/svett/lib/"
+ "/home/diz/repos/svett/"
+ "/home/diz/repos/svett/test/"
+ "/home/diz/repos/svett/svett/lib/"
+ "/home/diz/repos/svett/svett/"
+ "/home/diz/repos/otp-first-adventure/"
+ "/home/diz/repos/erlang-app/src/"
+ "/home/diz/repos/erlang-app/"
+ "/home/diz/repos/erlang-noob/"
+ "/home/diz/repos/clojure-noob/src/clojure_noob/"
+ "/home/diz/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "ui.el"
+ "init.el"
+ "svett.ex"
+ "setup-elixir.el"
+ "mix.exs"
+ "setup-clojure.el"
+ "svett_test.exs"
+ "ppool_supersup.erl"
+ "kitty_gen_server.erl"
+ "sup.erl"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/diz/.emacs.d/" (22788 65237 229745 119000) "backups/" "cider-history" "network-security.data" "auto-save-list/" ".smex-items" "init.el" "./" "projectile-bookmarks.eld" ".recentf" "README.md" "themes/" "customizations/" "../" "elpa/" "ido.last")
+
+ ("/home/diz/.emacs.d/customizations/" (22788 65167 583508 176000) "ui.el" "shell-integration.el" "setup-clojure.el" "elisp-editing.el" "setup-erlang.el" "setup-js.el" "./" "editing.el" "../" "setup-elixir.el" "navigation.el" "misc.el")
+
+ ("/home/diz/repos/svett/lib/" (22788 64398 424996 676000) "./" "svett.ex" "../")
+
+ ("/home/diz/repos/svett/" (22788 64381 488436 802000) "config/" "_build/" "lib/" "mix.exs" ".gitignore" "./" "README.md" "../" "test/")
+
+ ("/home/diz/repos/svett/test/" (22788 62913 488060 426000) "test_helper.exs" "./" "svett_test.exs" "../")
+
+ ("/home/diz/repos/" (22788 62252 379145 42000) "cbatch/" "torquebuilder/" "girc/" "stripe/" "erlang-app/" "ptext-elm/" "phoroneus/" "docker/" "otp-first-adventure/" "restapi/" "laravel-builder/" "cvmfs-base/" "enorsk2/" "package-query/" "coreos-files/" "rtorrent-rutorrent/" "inf237/" "nophoroneus.github.io/" "clojure-noob/" "sass-boilerplate/" "spotifyairplay/" "enorsk/" "php-cli/" "svett/" "propagate-server/" "./" "torque/" "erlang-noob/" "README.md" "cvm/" "inf219/" "../" "test/" "torque-master/" "PlexConnect/" "enorsk-php/" "stripe-boilerplate/" "thefantastic5/" "nie_web/" "airspotify/" "brawlers-http/")
+
+ ("/home/diz/repos/svett/svett/lib/" (22788 62075 910321 951000) "./" "svett.ex" "../")
+
+ ("/home/diz/repos/svett/svett/" (22788 62075 910321 951000) "config/" "lib/" "mix.exs" ".gitignore" "./" "README.md" "../" "test/")
+
+ ("/home/diz/repos/otp-first-adventure/" (22788 40642 709232 259000) "kitty_gen_server.erl" "kitty_gen_server.beam" "./" "../")
+
+ ("/home/diz/repos/erlang-app/" (22788 36609 213493 530000) "Emakefile" "ebin/" "src/" "./" "priv/" "include/" "../")
+
+ ("/home/diz/repos/erlang-app/src/" (22788 37363 645023 658000) "event.erl" "./" "evserv.erl" "../" "sup.erl" "event.beam")
+
+ ("/home/diz/repos/erlang-noob/" (22788 31191 430685 849000) "dolphin.beam" "linkmon.beam" "multiproc.beam" "kitchen.erl" "./" "kitchen.beam" "multiproc.erl" "../" "dolphin.erl" "linkmon.erl")
+
+ ("/home/" (21705 42597 250716 707000) "./" "diz/" "../")
+
+ ("/home/diz/" (22787 27808 635870 779000) "SatanicRitual.class" ".travis/" ".vscode/" "cvmfs/" ".emacs.d/" ".icons/" ".ghc/" ".cabal/" ".gtkrc-2.0" "test.conf" ".local/" ".atom/" ".gnupg/" ".pki/" ".v8flags.5.0.71.52.diz.json" ".bash_logout" ".esd_auth" ".themes/" "~2016-04-24-23:41:31.png" "NetBeansProjects/" ".v8flags.4.5.103.35.diz.json" ".steampath" "go/" "Prayer.class" ".v8flags.3.28.71.19.diz.json" "chronograf.db" "Sacrifice.class" ".Xauthority" ".netrc" ".bashrc" "DeathRay.class" "Fireball.class" "Node.js Design Patterns [eBook].pdf" ".bzr.log" ".nv/" ".docker/" ".bin/" "Hypnotize.class" "Effect.class" "Siphon.class" ".lesshst" "Focus.class" "Game.class" ".steam/" "jvpn-0.7.0/" ".profile" ".rnd" "eNorsk.svg" "dump/" "Player.class" ".m2/" ".xsession-errors" "SpiderOak Hive/" "Ability.class" "lol" ".pulse-cookie" "BattleCry.class" "eple.sh" ".ssh/" ".ICEauthority" ".wget-hsts" ".netbeans-derby/" ".packer.d/" "VirtualBox VMs/" ".conkyrc" "bin/" ".bash_history" "./" ".composer/" "java-dev/" "Refill.class" ".config/" "Brawlers.java" "repos/" "Downloads/" "clean-docker.sh" "Attack.class" ".modulus/" ".mozilla/" "Transmorph.class" "rethinkdb_data/" ".gem/" ".v8flags.5.0.71.47.diz.json" "Rage.class" "Desktop/" "test.sh" ".netbeans/" "Neuter.class" ".gitconfig" "enorsk.svg" ".thumbnails/" ".Skype/" ".bash_profile" ".WebStorm10/" "Drain.class" ".python-eggs/" ".elm/" ".juniper_networks/" ".stack/" ".nvm/" ".texlive/" ".cache/" ".aws/" ".steampid" ".nvidia-settings-rc" "Brawlers.class" ".wallpapers/" "Solidify.class" ".TelegramDesktop/" "Berserk.class" "../" "test/" ".v8flags.4.6.85.31.diz.json" "DoubleEdgedSword.class" ".npm/" ".WebIde110/" "Getting MEAN with Mongo, Express, Angular, and Node.pdf" ".yjp/" ".v8flags.4.5.103.37.diz.json" ".java/" ".python_history" "Lightning.class" ".v8flags.3.28.73.diz.json" "db/" ".ngrok2/" "Meditate.class" ".wicd/" ".node-gyp/" ".lein/" ".vagrant.d/" "html/" "gdrive/" ".heroku/" ".gnome/")
+
+ ("/home/diz/repos/clojure-noob/" (22779 51929 917248 74000) "resources/" ".hgignore" "book1.zip" "src/" "doc/" ".gitignore" "./" "LICENSE" "project.clj" "CHANGELOG.md" "README.md" ".lein-repl-history" "../" "test/" "target/")
+
+ ("/home/diz/repos/clojure-noob/src/clojure_noob/" (22779 51632 73581 735000) "./" "core.clj" "../")
+
+ ("/home/diz/repos/clojure-noob/src/" (22779 49896 716158 784000) "clojure_noob/" "./" "../")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

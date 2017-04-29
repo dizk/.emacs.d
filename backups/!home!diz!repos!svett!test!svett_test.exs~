@@ -1,0 +1,8 @@
+defmodule SvettTest do
+  use ExUnit.Case
+  doctest Svett
+
+  test "the truth" do
+    assert 1 + 1 == 2
+  end
+end

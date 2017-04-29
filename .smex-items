@@ -1,0 +1,18 @@
+
+;; ----- smex-history -----
+(
+ list-packages
+ alchemist-mode
+ package-install
+ cd
+ 5x5
+ arp
+ dbx
+)
+
+;; ----- smex-data -----
+(
+ (package-install . 2)
+ (alchemist-mode . 1)
+ (list-packages . 1)
+)

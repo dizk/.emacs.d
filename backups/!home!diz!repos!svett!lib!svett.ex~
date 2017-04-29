@@ -1,0 +1,21 @@
+
+
+defmodule Svett do
+
+  @moduledoc """
+  Documentation for Svett.
+  """
+
+  @doc """
+  Hello world.
+
+  ## Examples
+
+      iex> Svett.hello
+      :world
+
+  """
+  def hello do
+    :world
+  end
+end
