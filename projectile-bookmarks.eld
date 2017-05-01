@@ -1,1 +1,0 @@
-("~/repos/svett/" "~/repos/svett/svett/" "~/repos/clojure-noob/")
