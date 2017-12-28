@@ -151,7 +151,7 @@
 (load "setup-js.el")
 (load "setup-erlang.el")
 (load "setup-elixir.el")
-
+(load "osx.el")
 
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
@@ -161,7 +161,7 @@
  '(coffee-tab-width 2)
  '(package-selected-packages
    (quote
-    (alchemist elixir-mode cider-decompile tagedit smex rainbow-delimiters projectile paredit magit ido-ubiquitous exec-path-from-shell clojure-mode-extra-font-locking cider))))
+    (company cider-eval-sexp-fu alchemist elixir-mode cider-decompile tagedit smex rainbow-delimiters projectile paredit magit ido-ubiquitous exec-path-from-shell clojure-mode-extra-font-locking cider))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.

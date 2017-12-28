@@ -1,18 +1,23 @@
 
 ;; ----- smex-history -----
 (
- list-packages
- alchemist-mode
  package-install
- cd
- 5x5
- arp
- dbx
+ package-list-packages
+ package-autoremove
+ alchemist-iex-run
+ describe-mode
+ list-packages
+ cider-jack-in
 )
 
 ;; ----- smex-data -----
 (
- (package-install . 2)
+ (package-install . 4)
  (alchemist-mode . 1)
- (list-packages . 1)
+ (list-packages . 3)
+ (cider-jack-in . 1)
+ (package-list-packages . 5)
+ (describe-mode . 1)
+ (alchemist-iex-run . 1)
+ (package-autoremove . 2)
 )
